@@ -4,4 +4,4 @@ This extenstion for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AU
 
 If you install [lama cleaner](https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content), "Resynthesizer" will appear as model in extras tab
 
-Btw generally it's worse and slower then lama, but in a few scenarios if lama has some concepts which it can't remove, resynthesizer can help
+Btw generally it's worse and slower then lama, but in a few scenarios if lama has some concepts which it can't remove, resynthesizer can help. Also it can on hard for surfaces e.g. grid, sand
